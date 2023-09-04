@@ -1,0 +1,16 @@
+total 52
+drwxr-xr-x 2 saitabau saitabau 4096 Sep  4 19:48 .
+drwxr-xr-x 6 saitabau saitabau 4096 Sep  4 11:14 ..
+-rwxr--r-- 1 saitabau saitabau   36 Sep  4 12:04 0-hello_world
+-rwxr--r-- 1 saitabau saitabau   28 Sep  4 12:50 1-confused_smiley
+-rwxr--r-- 1 saitabau saitabau   28 Sep  4 13:11 2-hellofile
+-rwxr--r-- 1 saitabau saitabau   39 Sep  4 13:14 3-twofiles
+-rwxr--r-- 1 saitabau saitabau   29 Sep  4 13:17 4-lastlines
+-rwxr--r-- 1 saitabau saitabau   29 Sep  4 17:42 5-firstlines
+-rwxr--r-- 1 saitabau saitabau   40 Sep  4 17:49 6-third_line
+-rwxr--r-- 1 saitabau saitabau   93 Sep  4 18:02 7-file
+-rwxr--r-- 1 saitabau saitabau   37 Sep  4 19:48 8-cwd_state
+-rw-r--r-- 1 saitabau saitabau 1899 Sep  4 11:43 README.md
+-rw-r--r-- 1 saitabau saitabau   12 Sep  4 18:03 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 saitabau saitabau    0 Sep  4 17:49 iacta
+-rw-r--r-- 1 saitabau saitabau    0 Sep  4 19:48 ls_cwd_content
